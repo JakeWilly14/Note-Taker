@@ -17,10 +17,16 @@
   ## Installation
   Without heroku deployment, users must have access to my Github repository, along with a code editor and node.js installed. Once access to the Note Taker repository, copy the SSH code and clone it into your local machine. From there open the     integrated terminal for the "server.js" file. Before running the application you will need to install the applications's packages. So first in the terminal type the code "npm i". That will be everything a user needs to run the application 
   locally. With heroku deployment, users must have access to the deployed URL and enter that address into their URL search. 
+
+  Deployed Link: https://intense-peak-89705-6f33e6e0b312.herokuapp.com/
   
   ## Usage
   All a user must do is enter the correct URL for the application and click "Get Started". This will direct the user to the notes route where they may begin adding a note title and text description. Once both fields have input, users may     
   save the note or clear the form for resubmission. Saved note titles will be saved to the left hand side of the screen where they may be clicked to see the notes text description. A saved note may also be deleted once there is no further use. 
+
+
+  ![Desktop Screenshot 2023 12 05 - 13 08 52 47](https://github.com/JakeWilly14/Note-Taker/assets/144076139/bf39cf7e-9aba-4765-a9cb-5bbf2e21d563)
+
   
   ## Contributors
   No further contributions.
